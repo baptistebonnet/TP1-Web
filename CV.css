@@ -96,3 +96,28 @@ article
 	color: #666;   
 	padding: 40px 0;
 }
+
+.resp-container 
+{ 
+	position: relative; 
+    overflow: hidden; 
+   text-align: center;
+   margin-bottom: 1%;
+}
+
+iframe
+{
+	width: 700px;
+	height: 400px;
+}
+
+p
+{
+	animation-duration: 0.5s;
+	animation-delay: 0.1s;
+	animation-name: boune;
+	animation-timing-function: ease-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+
+}
