@@ -9,6 +9,16 @@ header
 	width: 20%;
 	text-align: center;
 	margin-left: 1%;
+	margin-top: 0.5%;
+}
+
+.rond
+{
+	width : 60%; height : 60%;
+	border: none;
+	-moz-border-radius : 75px;
+	-webkit-border-radius : 75px;
+	border-radius : 75px;
 }
 
 #rightcolumn
@@ -16,7 +26,7 @@ header
 	float: right;
 	width: 32%;
 	text-align: right;
-	margin-right: 10px;
+	margin-right: 1%;
 }
 
 #centercolumn
